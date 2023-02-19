@@ -1,1 +1,1 @@
-# DataScience--Capstone--Project: DrugReviews Dataset Insights
+# DataScience Capstone Project: DrugReviews Dataset Insights
