@@ -20,6 +20,9 @@ All the analysis is shared here [https://medium.com/@alexispolymeropoulos/athens
 
 ## References
 [Rohan Harode] (https://medium.com/sfu-cspmp/draw-drug-review-analysis-work-96212ed98941)
+
 [Hamiz Ahmed] (https://towardsdatascience.com/predict-patients-medical-condition-based-on-medicine-review-part-1-c22ea39d9976)
+
 [Kaggle] (https://medium.com/sfu-cspmp/draw-drug-review-analysis-work-96212ed98941
+
 [Harsh Jain] (https://towardsdatascience.com/predict-patients-medical-condition-based-on-medicine-review-part-1-c22ea39d9976)
