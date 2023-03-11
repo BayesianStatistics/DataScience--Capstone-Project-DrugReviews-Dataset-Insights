@@ -7,8 +7,8 @@ The main aim of this project is to analyze in depth the data of online drug revi
 * Multiclassification of Medical Condition based on Drug Review
 
 ## Data Source Description
-* Data files: File drugsCom_all_data.zip is shared via udacity webfile as it is huge and cannot be upload here.
-* Jupyter notebook: Athens_AirBnb_Analysis.ipynb 
+* Data files: Cannot upload the dataset file it was very large for GitHub.
+* Jupyter notebook: Data Science Capstone Project.ipynb 
 
 ## Library Packages
 Warnings, WordCloud, Numpy, Pandas, Tabulate, Matplotlib, Seaborn, Nltk, String, TextBlob, Sklearn, Re
